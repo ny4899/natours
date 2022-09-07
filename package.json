@@ -7,8 +7,8 @@
     "node": "17.x"
   },
   "scripts": {
-    "start": "nodemon server.js",
-    "start:pro": "NODE_ENV=production nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
