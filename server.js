@@ -22,6 +22,4 @@ mongoose
   });
 
 const port = process.env.PORT * 1;
-app.listen(port, () => {
-  console.log(`on port ${port}...`);
-});
+app.listen(port || 5000);
