@@ -1,0 +1,3 @@
+1) install node in your machine.
+2) Run commond: npm install (to install all pakages)
+3) ......
